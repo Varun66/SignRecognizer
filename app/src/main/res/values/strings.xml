@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">sign-recognizer</string>
+
+
+    <string name="stop_sign_name">Stop Sign</string>
+    <string name="stop_sign_desc">Alerts drivers to stop at intersections where traffic may be heading in multiple directions.</string>
+
+    <string name="speed_limit_name">Speed Limit Sign</string>
+    <string name="speed_limit_desc">Displays the maximum speed in km/h (mph) the user can drive on that road.</string>
+
+    <string name="yield_sign_name">Yield Sign</string>
+    <string name="yield_sign_desc">The driver must give the right-of-way to pedestrians or other cars who have priority.</string>
+
+    <string name="do_not_enter_sign_name">Do Not Enter Sign</string>
+    <string name="do_not_enter_sign_desc">Specifies to not enter the property behind the sign.</string>
+
+    <string name="school_zone_sign_name">School Zone Sign</string>
+    <string name="school_zone_sign_desc">Specifies that there is a school and there are children in the area and the driver must abide the speed limit shown.</string>
+
+    <string name="pedestrian_crossing_sign_name">Pedestrian Crossing Sign</string>
+    <string name="pedestrian_crossing_sign_desc">Alerts the driver that there is an upcoming crossing that people use to traverse the road.</string>
+
+    <string name="no_standing_sign_name">No Standing Sign</string>
+    <string name="no_standing_sign_desc">You cannot stand in the area the sign is located.</string>
+</resources>

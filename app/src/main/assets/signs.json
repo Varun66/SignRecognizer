@@ -1,0 +1,54 @@
+{
+  "signs": [
+    {
+      "name": "stop",
+      "color": [
+        230,
+        15,
+        45
+      ],
+      "shape": 7,
+      "text": "stop"
+    },
+    {
+      "name": "yield",
+      "color": [
+        230,
+        15,
+        45
+      ],
+      "shape": 3,
+      "text": ""
+    },
+    {
+      "name": "do-not-enter",
+      "color": [
+        230,
+        15,
+        45
+      ],
+      "shape": 4,
+      "text": ""
+    },
+    {
+      "name": "school-zone",
+      "color": [
+        242,
+        233,
+        85
+      ],
+      "shape": 5,
+      "text": ""
+    },
+    {
+      "name": "no-standing",
+      "color": [
+        242,
+        233,
+        85
+      ],
+      "shape": 4,
+      "text": "no standing"
+    }
+  ]
+}
